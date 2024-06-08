@@ -1,7 +1,7 @@
 # SQLAnswers
 My solutions in SQL for problems on leetcode and strataScratch. 
 
-| Questions| Difficulty | Solution | Updated
+| Questions| Difficulty | Redo | Updated
 | :---         |     :---:      |          ---: |         ---: |
-| Leetcode | Medium    | []  |
+| Leetcode 534 | Medium    | <ul><li>- [ ] finished</li><li>- [ ] incomplete</li></ul>|
 
