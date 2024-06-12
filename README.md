@@ -1,5 +1,11 @@
 # SQLAnswers
-My solutions in SQL for problems on leetcode and strataScratch. 
+The site is to document my daily progress on practicing SQL questions from leetcode and strataScratch. 
+
+## Topics covered 
+- Window function
+- Join
+- Rolling average
+- Filter conditions
 
 | Questions| Difficulty | Redo | Updated
 | :---         |     :---:      |          ---: |         ---: |
