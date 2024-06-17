@@ -1,4 +1,4 @@
-# SQLAnswers
+## Interview on SQL questions
 The site is to document my daily progress on practicing SQL questions from leetcode and strataScratch. 
 
 ## Topics covered 
